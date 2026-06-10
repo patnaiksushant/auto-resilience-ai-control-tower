@@ -1,0 +1,101 @@
+supplier_id,supplier_name,region,country,component,supplier_rating,capacity_score,lead_time_days,country_risk_score,geopolitical_dependency_score,esg_score,payment_terms_days
+S0001,Supplier 0001,Asia,India,Brake Assembly,53,58,62,24,33,53,45
+S0002,Supplier 0002,North America,Canada,Tire,89,83,12,54,10,56,90
+S0003,Supplier 0003,North America,Canada,Aluminum,94,98,74,66,34,93,90
+S0004,Supplier 0004,Europe,Germany,Steel,59,73,9,19,77,53,90
+S0005,Supplier 0005,Asia,India,Semiconductor,66,66,49,81,33,55,45
+S0006,Supplier 0006,Asia,South Korea,Motor Controller,73,56,40,77,29,72,30
+S0007,Supplier 0007,Europe,France,Infotainment Unit,87,66,7,60,28,66,90
+S0008,Supplier 0008,North America,USA,Infotainment Unit,59,49,25,63,25,80,30
+S0009,Supplier 0009,Asia,Vietnam,Tire,76,89,48,87,60,84,90
+S0010,Supplier 0010,Europe,Italy,Tire,88,56,49,17,91,87,90
+S0011,Supplier 0011,Europe,Italy,Sensor,91,76,34,36,74,67,60
+S0012,Supplier 0012,Asia,China,Steel,92,52,10,89,59,57,45
+S0013,Supplier 0013,Asia,Thailand,Brake Assembly,97,72,78,31,14,72,30
+S0014,Supplier 0014,Europe,France,Brake Assembly,83,65,61,61,65,57,30
+S0015,Supplier 0015,Europe,Italy,Motor Controller,71,93,46,25,53,63,90
+S0016,Supplier 0016,Asia,China,Wiring Harness,85,67,38,55,50,97,90
+S0017,Supplier 0017,North America,Mexico,Infotainment Unit,92,69,60,28,19,54,45
+S0018,Supplier 0018,Europe,France,Battery Cell,81,49,53,35,43,66,90
+S0019,Supplier 0019,North America,USA,Sensor,77,63,13,54,61,87,30
+S0020,Supplier 0020,Europe,Germany,Steel,89,83,69,54,19,91,30
+S0021,Supplier 0021,North America,USA,Wiring Harness,71,51,16,42,50,81,45
+S0022,Supplier 0022,Asia,Vietnam,Battery Cell,96,87,12,68,60,93,60
+S0023,Supplier 0023,North America,Canada,Aluminum,91,59,72,17,59,87,30
+S0024,Supplier 0024,Europe,France,Sensor,88,96,83,53,86,61,45
+S0025,Supplier 0025,North America,Canada,Semiconductor,93,43,57,89,32,79,30
+S0026,Supplier 0026,Asia,Thailand,Motor Controller,70,78,54,28,66,66,60
+S0027,Supplier 0027,Europe,Czech Republic,Wiring Harness,89,40,10,80,39,61,60
+S0028,Supplier 0028,North America,Canada,Sensor,96,47,59,65,26,91,30
+S0029,Supplier 0029,Europe,Germany,Infotainment Unit,94,90,44,88,80,47,45
+S0030,Supplier 0030,North America,Mexico,Infotainment Unit,85,50,25,42,31,51,30
+S0031,Supplier 0031,Asia,Thailand,Battery Cell,71,46,52,21,46,53,45
+S0032,Supplier 0032,Europe,France,Motor Controller,72,80,55,43,18,97,90
+S0033,Supplier 0033,North America,Canada,Battery Cell,76,35,77,23,34,57,45
+S0034,Supplier 0034,North America,USA,Semiconductor,76,36,42,47,64,93,45
+S0035,Supplier 0035,North America,USA,Steel,97,43,67,67,58,55,30
+S0036,Supplier 0036,North America,Canada,Steel,72,76,33,63,89,97,45
+S0037,Supplier 0037,North America,Mexico,Infotainment Unit,91,71,45,22,46,67,45
+S0038,Supplier 0038,Europe,Czech Republic,Brake Assembly,96,49,24,60,47,91,90
+S0039,Supplier 0039,Europe,Germany,Wiring Harness,84,76,39,73,84,49,90
+S0040,Supplier 0040,Asia,China,Motor Controller,92,93,7,49,66,55,30
+S0041,Supplier 0041,Europe,Italy,Semiconductor,73,55,36,59,32,75,60
+S0042,Supplier 0042,Asia,Japan,Sensor,65,55,22,20,10,45,60
+S0043,Supplier 0043,North America,USA,Infotainment Unit,85,80,65,21,21,67,30
+S0044,Supplier 0044,Asia,Japan,Motor Controller,91,89,47,18,48,71,45
+S0045,Supplier 0045,Asia,China,Wiring Harness,54,81,72,56,38,89,30
+S0046,Supplier 0046,Asia,China,Wiring Harness,50,63,12,53,15,57,45
+S0047,Supplier 0047,Europe,Poland,Sensor,75,56,42,35,78,74,60
+S0048,Supplier 0048,Asia,Japan,Aluminum,83,73,73,33,10,63,45
+S0049,Supplier 0049,North America,Mexico,Steel,64,81,71,41,18,58,30
+S0050,Supplier 0050,Europe,Czech Republic,Motor Controller,68,58,60,38,89,90,45
+S0051,Supplier 0051,Asia,India,Tire,89,93,41,52,57,67,90
+S0052,Supplier 0052,Europe,Italy,Tire,73,81,56,37,45,59,60
+S0053,Supplier 0053,Asia,India,Wiring Harness,75,65,81,67,56,90,90
+S0054,Supplier 0054,North America,Mexico,Tire,74,62,7,60,28,88,45
+S0055,Supplier 0055,Europe,Italy,Battery Cell,54,93,8,40,87,50,30
+S0056,Supplier 0056,North America,USA,Tire,65,95,49,23,65,77,60
+S0057,Supplier 0057,Europe,Germany,Motor Controller,56,83,8,48,65,75,30
+S0058,Supplier 0058,Asia,Japan,Motor Controller,91,89,31,73,76,66,30
+S0059,Supplier 0059,Asia,Japan,Battery Cell,83,72,49,59,92,90,45
+S0060,Supplier 0060,North America,Mexico,Steel,58,97,52,79,32,85,90
+S0061,Supplier 0061,North America,Mexico,Wiring Harness,82,87,76,14,39,57,30
+S0062,Supplier 0062,Asia,South Korea,Steel,97,57,78,63,53,97,60
+S0063,Supplier 0063,Asia,Vietnam,Motor Controller,89,91,72,81,26,51,90
+S0064,Supplier 0064,Europe,Germany,Steel,89,39,71,39,87,69,30
+S0065,Supplier 0065,Europe,France,Sensor,71,62,49,84,37,45,45
+S0066,Supplier 0066,Europe,France,Wiring Harness,50,80,22,84,49,68,90
+S0067,Supplier 0067,North America,Canada,Sensor,74,37,76,81,60,86,90
+S0068,Supplier 0068,Asia,Japan,Infotainment Unit,91,93,56,15,64,80,90
+S0069,Supplier 0069,Asia,Thailand,Tire,51,55,7,56,87,53,45
+S0070,Supplier 0070,Asia,Japan,Infotainment Unit,83,62,36,21,41,81,45
+S0071,Supplier 0071,Europe,Czech Republic,Infotainment Unit,61,98,10,69,48,76,60
+S0072,Supplier 0072,North America,Canada,Tire,67,51,10,49,94,47,60
+S0073,Supplier 0073,Asia,India,Motor Controller,82,84,59,20,26,86,30
+S0074,Supplier 0074,North America,Canada,Steel,50,47,50,31,26,91,90
+S0075,Supplier 0075,Asia,Japan,Aluminum,60,79,69,42,49,93,60
+S0076,Supplier 0076,Europe,Czech Republic,Motor Controller,64,62,56,12,91,46,60
+S0077,Supplier 0077,North America,Canada,Infotainment Unit,73,80,49,40,90,50,30
+S0078,Supplier 0078,Europe,Poland,Semiconductor,97,74,16,47,64,69,60
+S0079,Supplier 0079,Asia,China,Brake Assembly,78,36,49,84,84,93,30
+S0080,Supplier 0080,North America,Mexico,Infotainment Unit,56,57,13,27,41,52,60
+S0081,Supplier 0081,Europe,France,Wiring Harness,81,93,77,48,59,91,30
+S0082,Supplier 0082,Asia,China,Aluminum,98,55,69,69,12,51,60
+S0083,Supplier 0083,Asia,India,Brake Assembly,78,39,67,57,30,62,90
+S0084,Supplier 0084,North America,Canada,Motor Controller,64,51,22,17,71,52,60
+S0085,Supplier 0085,Asia,China,Wiring Harness,79,65,78,67,55,93,45
+S0086,Supplier 0086,Europe,Italy,Semiconductor,65,70,71,29,79,58,60
+S0087,Supplier 0087,Asia,China,Brake Assembly,81,46,68,74,31,88,45
+S0088,Supplier 0088,North America,Canada,Motor Controller,85,45,54,16,20,91,45
+S0089,Supplier 0089,North America,Mexico,Motor Controller,79,65,50,54,82,70,90
+S0090,Supplier 0090,Europe,Czech Republic,Tire,64,92,84,20,43,55,90
+S0091,Supplier 0091,North America,USA,Battery Cell,79,66,13,82,46,97,60
+S0092,Supplier 0092,Asia,South Korea,Aluminum,53,84,66,86,63,79,30
+S0093,Supplier 0093,Europe,Germany,Aluminum,54,61,50,27,61,85,45
+S0094,Supplier 0094,Asia,Japan,Battery Cell,53,98,83,13,59,51,60
+S0095,Supplier 0095,Europe,Poland,Wiring Harness,69,92,41,85,93,53,90
+S0096,Supplier 0096,North America,USA,Tire,76,38,30,12,43,86,90
+S0097,Supplier 0097,North America,Canada,Infotainment Unit,91,42,29,71,84,60,60
+S0098,Supplier 0098,North America,Mexico,Brake Assembly,86,90,33,46,25,61,45
+S0099,Supplier 0099,Europe,Czech Republic,Wiring Harness,79,39,26,70,55,94,90
+S0100,Supplier 0100,Asia,Thailand,Sensor,96,82,13,81,32,83,45
